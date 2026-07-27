@@ -1,0 +1,67 @@
+Restaurant Name,City,Cuisines,Average Cost for two,Has Online delivery,Has Table booking,Price range,Aggregate rating,Rating text,Votes
+Spice Garden,Bangalore,North Indian,800,Yes,Yes,3,4.5,Excellent,540
+Pizza Hub,Delhi,Italian,1200,Yes,Yes,4,4.3,Very Good,620
+Burger Point,Mumbai,Fast Food,600,Yes,No,2,4.1,Very Good,310
+Dosa Corner,Chennai,South Indian,400,No,No,1,3.9,Good,180
+Biryani House,Hyderabad,Biryani,900,Yes,Yes,3,4.6,Excellent,850
+Cafe Aroma,Pune,Cafe,700,Yes,No,2,4.2,Very Good,270
+BBQ Nation,Bangalore,BBQ,1800,Yes,Yes,4,4.7,Excellent,1100
+Tandoori Flames,Delhi,North Indian,1500,Yes,Yes,4,4.4,Very Good,780
+Chinese Wok,Mumbai,Chinese,850,Yes,No,3,4.0,Good,350
+Kerala Kitchen,Kochi,Kerala,650,No,Yes,2,4.3,Very Good,290
+Idli Express,Chennai,South Indian,350,No,No,1,4.1,Very Good,170
+Punjabi Dhaba,Delhi,North Indian,950,Yes,No,3,4.2,Very Good,420
+Royal Biryani,Hyderabad,Biryani,1000,Yes,Yes,3,4.8,Excellent,1320
+The Pasta Bar,Bangalore,Italian,1400,Yes,Yes,4,4.6,Excellent,810
+Sushi World,Mumbai,Japanese,2200,No,Yes,4,4.5,Excellent,490
+Tea Junction,Kolkata,Cafe,300,Yes,No,1,3.8,Good,130
+Street Eats,Delhi,Fast Food,450,Yes,No,1,4.0,Good,260
+Ocean Grill,Goa,Seafood,1700,Yes,Yes,4,4.7,Excellent,910
+Veg Delight,Ahmedabad,Gujarati,550,No,No,2,4.1,Very Good,210
+Coffee Time,Pune,Cafe,500,Yes,No,2,4.0,Good,200
+Bamboo House,Kochi,Chinese,800,Yes,Yes,3,4.4,Very Good,370
+Food Factory,Bangalore,Multi Cuisine,1300,Yes,Yes,4,4.3,Very Good,640
+Grill House,Hyderabad,BBQ,1600,Yes,Yes,4,4.6,Excellent,980
+Bombay Bites,Mumbai,Street Food,450,Yes,No,1,3.9,Good,250
+Madras Meals,Chennai,South Indian,500,No,No,2,4.2,Very Good,220
+Tikka Junction,Delhi,North Indian,1000,Yes,Yes,3,4.5,Excellent,690
+Cafe Mocha,Bangalore,Cafe,900,Yes,No,3,4.1,Very Good,340
+Roll Express,Kolkata,Fast Food,350,Yes,No,1,3.7,Average,120
+Paradise Biryani,Hyderabad,Biryani,1100,Yes,Yes,4,4.8,Excellent,1500
+Sea Breeze,Goa,Seafood,2100,No,Yes,4,4.6,Excellent,730
+Taste of Punjab,Chandigarh,North Indian,950,Yes,Yes,3,4.4,Very Good,410
+Pizza Planet,Pune,Italian,1300,Yes,Yes,4,4.3,Very Good,510
+Cafe Bliss,Bangalore,Cafe,650,Yes,No,2,4.0,Good,270
+Noodle Box,Mumbai,Chinese,900,Yes,No,3,4.2,Very Good,380
+Spicy Treat,Hyderabad,Biryani,850,Yes,No,3,4.5,Excellent,760
+Udupi Bhavan,Chennai,South Indian,450,No,No,1,4.3,Very Good,260
+The Curry Pot,Delhi,North Indian,1200,Yes,Yes,4,4.6,Excellent,850
+Brew Cafe,Bangalore,Cafe,700,Yes,No,2,4.2,Very Good,290
+Royal Feast,Kolkata,Mughlai,1500,Yes,Yes,4,4.5,Excellent,620
+Gujarati Rasoi,Ahmedabad,Gujarati,600,No,No,2,4.0,Good,180
+Grill & Chill,Pune,BBQ,1700,Yes,Yes,4,4.6,Excellent,890
+Bistro Cafe,Mumbai,Cafe,800,Yes,No,3,4.1,Very Good,330
+The Diner,Delhi,Multi Cuisine,1400,Yes,Yes,4,4.4,Very Good,720
+Spice Villa,Hyderabad,North Indian,900,Yes,Yes,3,4.3,Very Good,470
+Coastal Catch,Kochi,Seafood,1800,Yes,Yes,4,4.7,Excellent,970
+South Spice,Chennai,South Indian,550,No,No,2,4.2,Very Good,240
+Burger Buzz,Bangalore,Fast Food,650,Yes,No,2,4.0,Good,260
+Rice Bowl,Mumbai,Chinese,850,Yes,No,3,4.1,Very Good,390
+The Wok,Delhi,Chinese,1000,Yes,Yes,3,4.4,Very Good,510
+Italian Oven,Pune,Italian,1500,Yes,Yes,4,4.6,Excellent,880
+Green Leaf,Kochi,Kerala,600,No,No,2,4.1,Very Good,190
+Cafe Stories,Bangalore,Cafe,750,Yes,No,2,4.3,Very Good,310
+Biryani Palace,Hyderabad,Biryani,950,Yes,Yes,3,4.7,Excellent,1020
+Bombay Cafe,Mumbai,Cafe,700,Yes,No,2,4.2,Very Good,340
+North Feast,Delhi,North Indian,1100,Yes,Yes,3,4.5,Excellent,760
+Madurai Mess,Chennai,South Indian,500,No,No,2,4.3,Very Good,250
+BBQ Express,Bangalore,BBQ,1600,Yes,Yes,4,4.5,Excellent,840
+Food Street,Pune,Fast Food,450,Yes,No,1,3.9,Good,170
+Dragon Bowl,Kolkata,Chinese,950,Yes,Yes,3,4.3,Very Good,420
+Kerala Delights,Kochi,Kerala,700,No,Yes,2,4.4,Very Good,320
+The Grill House,Goa,Seafood,2000,Yes,Yes,4,4.8,Excellent,1190
+City Cafe,Bangalore,Cafe,600,Yes,No,2,4.0,Good,230
+Urban Bites,Delhi,Multi Cuisine,1250,Yes,Yes,4,4.4,Very Good,640
+Taste Town,Mumbai,North Indian,900,Yes,No,3,4.2,Very Good,450
+Hyderabadi Dum,Hyderabad,Biryani,1050,Yes,Yes,4,4.8,Excellent,1680
+Filter Coffee,Chennai,Cafe,400,No,No,1,4.1,Very Good,180
